@@ -1,0 +1,36 @@
+somaliland_investment_app/
+│
+├── lib/
+│   ├── main.dart
+│   ├── core/
+│   │   ├── theme.dart
+│   │   ├── localization.dart
+│   │   └── constants.dart
+│   │
+│   ├── data/
+│   │   ├── local_storage.dart
+│   │   └── seed_data.dart
+│   │
+│   ├── models/
+│   │   ├── sector.dart
+│   │   └── service.dart
+│   │
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── sectors_screen.dart
+│   │   ├── services_screen.dart
+│   │   ├── guide_screen.dart
+│   │   └── about_screen.dart
+│   │
+│   └── widgets/
+│       └── language_switch.dart
+│
+├── assets/
+│   ├── images/
+│   └── lang/
+│       ├── en.json
+│       └── so.json
+│
+├── pubspec.yaml
+├── README.md
+└── android/
